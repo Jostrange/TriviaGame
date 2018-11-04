@@ -1,0 +1,123 @@
+.main-area{
+    padding-left: 245px;
+    width: 800px;
+    height: 515px;
+    opacity: .7;
+    background-color: gray;
+    margin-left: 339px;
+    margin-top: 245px;
+    border-bottom: solid;
+    border-color:black;
+    border-top:solid;
+    border-left:solid;
+    border-right:solid;
+    overflow: scroll;
+    padding-top: 10px;
+}
+
+.pop-up{
+    display: none;
+    padding-left: 245px;
+    width: 800px;
+    height: 400px;
+    background-color: gray;
+    margin-left: 339px;
+    margin-top: 245px;
+    border-bottom: solid;
+    border-color:black;
+    border-top:solid;
+    border-left:solid;
+    border-right:solid;
+}
+
+.start-button{
+    width: 87px;
+    height: 35px;
+    background-color: white;
+    opacity: .7;
+    padding-left: 5px;
+    color: teal;
+    margin-left: 678px;
+    margin-top: 96px;
+}
+
+body{
+    background-image: url("../images/seattle.jpeg");
+    background-size: auto;
+}
+
+.timer-countdown{
+    width: 151px;
+    height: 88px;
+    border-bottom: solid;
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-color: black;
+    background-color: white;
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 202px;
+    font-size: 56px;
+    margin-top: -133px;
+    margin-left: 644px;
+}
+
+.questions{
+    width: 250px;
+    height: 50px;
+    color:white;
+    border-bottom: solid;
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-color: black; 
+}
+
+.answers{
+    width: 200px;
+    height: 47px;
+    color: white;
+    border-bottom: solid;
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-color: black;
+}
+
+.correct-answer{
+    width: 200px;
+    height: 25px;
+    color:red;
+    border-bottom: solid;
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-color: black; 
+}
+
+.submit-button{
+    background-color: greenyellow;
+    color: blue;
+    width: 209px;
+    height: 56px;
+}
+
+.game-score{
+    background-color: white;
+    width: 216px;
+    height: 85px;
+    color: blue;
+    font-family: fantasy;
+    font-size: 24px;
+    margin-top: 25px;
+    margin-left: 25px;
+    padding-left:15px;
+
+}
+
+.question-style{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:greenyellow;
+    font-size:24px;
+}
